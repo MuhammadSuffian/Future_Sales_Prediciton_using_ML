@@ -46,4 +46,4 @@ jupyter notebook
 ```
 
 ## Author
-**Muhammad Suffian**
+**Muhammad Suffian Tafoor**
